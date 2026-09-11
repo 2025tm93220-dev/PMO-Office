@@ -1,0 +1,2 @@
+Hardware Budget : 50000
+Software Budget : 30000
