@@ -1,0 +1,3 @@
+Laptop - 10
+Monitor - 15
+Keyboard - 20
